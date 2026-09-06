@@ -11,9 +11,7 @@ Me chamo Alison Silva, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente
 
 ### 🤖 Linguagens e Tecnologias
 
-/>
 
-/>
 
 <img 
     align="left" 
