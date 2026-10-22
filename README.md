@@ -37,5 +37,4 @@ Aplicação desenvolvida em Python, PySide6, SQLAlchemy e MySQL, voltada à rast
 
 [GitHub](https://github.com/alsrude)
 
-email: alisonbas.br@gmail.com
-  
+alisonbas.br@gmail.com
