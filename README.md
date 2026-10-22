@@ -20,28 +20,21 @@ Atuo na área de Tecnologia da Informação do **Instituto de Biologia do Exérc
 
 ---
 
-### 💻 Projetos em Destaque
+### 💻 Projeto em Destaque
 
 **Sistema de Gerenciamento de Amostras Laboratoriais**  
 Aplicação desenvolvida em Python, PySide6, SQLAlchemy e MySQL, voltada à rastreabilidade de amostras, cadeia de custódia, controle de análises e gerenciamento de alíquotas.
 
-**[Sistema de Cadastro e Controle de Pacientes](https://github.com/alsrude/Sistema-de-cadastro-1.2)**  
-Solução para cadastro e organização de registros de pacientes, com armazenamento de informações e emissão de etiquetas.
-
-**[Sistema de Controle de Estoque de TI](https://github.com/alsrude/Sistema-de-Estoque-TI)**  
-Sistema para gerenciamento e organização de materiais e recursos de tecnologia da informação.
 
 ---
 
 ### 🎓 Formação Acadêmica
 
-**Análise e Desenvolvimento de Sistemas** — Em andamento.
+**Análise e Desenvolvimento de Sistemas** — Cursando.
 
-### 🎯 Áreas de Interesse
-
-Desenvolvimento Back-End, Engenharia de Software, Bancos de Dados e Arquitetura de Sistemas.
 
 ### 📫 Contato
 
 [GitHub](https://github.com/alsrude)
+email: alisonbas.br@gmail.com
   
