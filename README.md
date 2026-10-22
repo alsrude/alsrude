@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Alison Silva
+# Alison Silva
 
 **`Desenvolvedor Back-End`**
 
