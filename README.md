@@ -11,8 +11,6 @@ Me chamo Alison Silva, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente
 
 ### 🤖 Linguagens e Tecnologias
 
-
-
 <img 
     align="left" 
     alt="Python" 
@@ -20,6 +18,15 @@ Me chamo Alison Silva, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://jsdelivr.net" 
 />
 
 <img 
