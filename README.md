@@ -26,7 +26,7 @@ Me chamo Alison Silva, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://jsdelivr.net" 
+    src="https://githubusercontent.com" 
 />
 
 <img 
